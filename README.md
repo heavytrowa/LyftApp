@@ -10,7 +10,7 @@ You would need node installed for the code.
 
 4. Use `node test.js` for running the backend server.
 
-5. you could also test out the server with curl
+5. you could test out the server with 
 `curl --request POST \
   --url http://localhost:3000/test \
   --header 'content-type: application/json' \
